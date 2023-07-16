@@ -1,8 +1,16 @@
-# Page 2
+# Aktivere environment
 
-## Another heading
+## Når man skal slå på for å dokumentere:
 
-Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum
-Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum
+Åpne cmd og skriv inn:
 
-Lorem ipsumLorem ipsumLorem ipsumLorem ipsum
+```
+C:\Users\Martin>cd mkdocs
+C:\Users\Martin\mkdocs>.\venv\Scripts\activate
+
+(venv) C:\Users\Martin\mkdocs>code .
+```
+
+`Code .` åpner opp VSC
+
+`.\venv\Scripts\activate` Aktiverer python environementet
