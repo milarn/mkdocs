@@ -3,6 +3,7 @@ theme:
   name: material
   favicon: img/favicon.png
   logo: img/logo.png
+  site_url: docs.lund.store
   features:
     - navigation.tabs
     - navigation.sections
