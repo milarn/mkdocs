@@ -26,6 +26,7 @@ Dette er noen av mine tanker så langt. Listen kan være mye lengre, men her er 
 - Du kan bruke Azure DevOps for å administrere repositoriene.
 - Dette er en flott mulighet til å få god dokumentasjon og samtidig gjøre alle lærlinger og konsulenter kjent med utviklersiden.
 
+### martin er kul
 
 ## Azure snarveier
 
