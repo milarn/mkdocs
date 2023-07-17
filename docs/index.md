@@ -9,7 +9,7 @@ Det kommer til å ta litt tid å få satt opp alt dette skikkelig. Men hvis vi f
 
 - Sikkerhet, autentisering for tilgang til siden
 - Repos
-- Kvalitets kontroll
+- Kvalitetskontroll
 - opplæring
 
 ### *Oppsummering*
