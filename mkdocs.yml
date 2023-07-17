@@ -1,6 +1,8 @@
 site_name: Lund.store
 theme:
   name: material
+  favicon: img/favicon.png
+  logo: img/logo.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -26,8 +28,9 @@ theme:
      primary: teal
      accent: lime
 
+## MD_Extensions
 
-  markdown_extensions:
+markdown_extensions:
     - pymdownx.highlight:
         anchor_linenums: true
     - pymdownx.inlinehilite
@@ -44,11 +47,15 @@ theme:
         emoji_index: !!python/name:materialx.emoji.twemoji
         emoji_generator: !!python/name:materialx.emoji.to_svg
 
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/milarn/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/Milarngg
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/martin-k-l-4a3921130/
 
-markdown_extensions:
-  - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-extra_css:
-  - stylesheets/extra.css
+copyright: |
+ &copy; 2023 <a href="https://github.com/milarn/" target="_blank" rel="noopener">Martin K. Lund</a>

@@ -1,49 +1,29 @@
-# Lund.store Dokumentasjon
+# Eksempel på Dokumentasjon | Home
 
-Dette er test av MKdocs og potensialet for dokumentasjons side.
+## **Hvorfor ha dette?**
+Her får vi en fin oversikt over hvordan vi kan dokumentere.
+Det skal være lett å lage et .md dokument, customize og organisere via [Cheat sheeten](http://127.0.0.1:8000/mkcheatsheet/) her. Da kan vi bruke #, ## og ### for å lage titler for å automatisk generere table of contents. Den ser du ganske lett på venstre siden.
 
-## Code Annotation examples
+### *Hva kan være vanskligheter?*
+Det kommer til å ta litt tid å få satt opp alt dette skikkelig. Men hvis vi får inn et team som kan jobbe med det er det fult mulig. Da slipper man å bruke dokumentasjons sider som confluence. Det vi må tenke på er:
 
-### Codeblocks
+- Sikkerhet, autentisering for tilgang til siden
+- Repos
+- Kvalitets kontroll
+- opplæring
 
-Eksempel på kode: `Her skriver vi inn koden vi har` Så får vi litt mer oversiktlig kode
-
-### plain codeblock
-
-a plain codeblock:
-
-```
-Her er litt kode for funksjon
-def myfunction()
-// her skriver du kommentar om koden
-```
-
-### Code for a specific language
-
-Some more code with the `py` at the start:
-
-``` py
-import tensorflow as tf
-def whatever()
-```
-
-### Med en tittel
-
-``` py title="bubble_sort.py"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
+### *Oppsummering*
+Dette er noe av det jeg har tenkt så langt. Listen kan være mye lenger men her kan man f.eks bruke siden: docs.lund.store som url for å finne denne, logge på med azure ad konto og bruke devops i azure for repos. **Gylden** mulighet til å få god dokumentasjon i tillegg til å gjøre alle lærlinger + konsulenter kjent med developer siden.
 
 
-## Icons and emojis
+## Azure snarveier
 
-:smile:
+[Azure portal](https://portal.azure.com)
 
-:fontawesome-regular-face-laugh-wink:
+[Admin portal](https://admin.microsoft.com)
 
-:fontawesome-brands-twitter:{ .twitter }
+[Entra](https://entra.microsoft.com/)
 
-:octicons-heart-fill-24:{ .heart }
+[Endpoint manager](https://endpoint.microsoft.com/)
+
+[Security](https://security.microsoft.com/)
