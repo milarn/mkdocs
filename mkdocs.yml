@@ -1,5 +1,5 @@
 site_name: Lund.store
-site_url: docs.lund.store
+site_url: https://docs.lund.store
 cname: docs.lund.store
 theme:
   name: material
