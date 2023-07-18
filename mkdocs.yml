@@ -1,5 +1,7 @@
 site_name: Lund.store
-site_url: https://docs.lund.store
+site_url: https://docs.lund.store/
+username: 'myuser'
+password: 'mypassword'
 theme:
   name: material
   favicon: img/favicon.png
