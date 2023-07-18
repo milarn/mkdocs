@@ -20,6 +20,4 @@ jobs:
           path: .cache
       - run: pip install mkdocs-material
       - run: mkdocs build --config-file mkdocs.yml
-      - run: mkdocs gh-deploy --force --config-file mkdocs.yml --remote-name origin
-        env:
-          PYTHONPATH: "${{ runner.temp }}"
+      - run: mkdocs gh-deploy --force
