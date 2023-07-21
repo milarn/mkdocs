@@ -1,4 +1,4 @@
-# Azure
+# Azure / Administration
 
 Azure is a cloud computing platform from Microsoft. It offers a wide range of services, including compute, storage, networking, databases, analytics, and machine learning.
 

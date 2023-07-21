@@ -1,4 +1,4 @@
-# What is IT?
+# Policies
 
 IT stands for Information Technology. It is a broad term that encompasses all aspects of using computers and telecommunications to store, retrieve, transmit, and manipulate information.
 

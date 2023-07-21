@@ -1,4 +1,4 @@
-# Ecommerce
+# Dokumentasjon kunde | Storebrand
 
 Ecommerce, or electronic commerce, is the buying and selling of goods or services over the internet. It is a rapidly growing market, and it is expected to continue to grow in the years to come.
 
