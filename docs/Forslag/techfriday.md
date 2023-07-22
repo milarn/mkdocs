@@ -1,6 +1,6 @@
 # TechFriday
 
-Jeg er ute etter å utvikle meg mer innenfor IT, og jeg tror det ville være nyttig for oss som kollegaer å ha en TechFriday hver uke. På TechFriday kunne vi dele ideer og kunnskaper som vi har, og vi kunne lære av hverandre. At alt blir gjennomført i 1-2 timers teamsmøte som vi recorder og lagrer.
+Jeg er ute etter å utvikle meg mer innenfor IT, og jeg tror det ville være nyttig for oss som kollegaer å ha en TechFriday hver uke. På TechFriday kan vi dele ideer og kunnskaper som vi har, og der vi kan lære av hverandre. At alt blir gjennomført i 1-2 timers teamsmøte som vi recorder og lagrer.
 
 Jeg har noen forslag til temaer som vi kunne diskutere på TechFriday i tabellen under.
 

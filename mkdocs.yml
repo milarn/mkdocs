@@ -1,14 +1,21 @@
 site_name: Lund.store
 site_url: https://docs.lund.store/
+repo_name: milarn/mkdocs
+repo_url: https://github.com/milarn/mkdocs
 theme:
+  icon:
+    repo: fontawesome/brands/git-alt
   name: material
   favicon: img/favicon.png
   logo: img/logo.png
   features:
-    - navigation.tabs
     - navigation.sections
+    - navigation.expand
+    - navigation.path
     - toc.integrate
     - navigation.top
+    - toc.follow
+    - toc.integrate
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -48,8 +55,24 @@ markdown_extensions:
         emoji_index: !!python/name:materialx.emoji.twemoji
         emoji_generator: !!python/name:materialx.emoji.to_svg
 
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - git-authors:
+  - search:
+
 extra:
   generator: false
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  analytics:
+    provider: google
+    property: G-TX4GRPD3L6
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/milarn/
