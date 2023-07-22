@@ -16,5 +16,5 @@ For å få skjermen din på skjermen, så trykker du enten på «duplicate scree
 
 Bonus for mobiler:
 
-<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/milarn/mkdocs/assets/50296048/37aaafa4-67be-4694-9a73-284ab1a126a7" controls="controls" style="max-height: 430px;">
 </video>
