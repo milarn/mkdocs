@@ -14,7 +14,7 @@ Etter dette er gjort er powershell aktivert og du kan nå fortsette med å skriv
 
 Når du installerer Get-WindowsAutoPilotInfo så får du en del valg du må godta ved å skrive `Y` eller `A` Husk at dette også krever nett-tilgang.  
 
-For å aktivere skriptet skriv:  
+For å aktivere scriptet skriv:  
 
 `Get-WindowsAutoPilotInfo.ps1 -Online`  
 
@@ -32,7 +32,7 @@ Install-Script -Name Get-WindowsAutoPilotInfo
 
 Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv
  
-Powershellskript kjøres som administrator. PC må være koblet til internett for at dette skal virke. 
+Powershellscript kjøres som administrator. PC må være koblet til internett for at dette skal virke. 
 Svar ja på all godkjenning som dukker opp.
  
 Outputfilen blir lagret på minnepenn: D:\HWID\  - Outputfilen heter her AutoPilotHWID.csv
