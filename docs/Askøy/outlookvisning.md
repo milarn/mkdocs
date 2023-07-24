@@ -1,4 +1,4 @@
-# Outlook visning quick fix
+# Outlook-visning quick fix
 
 Uansett hvilken visning du har så gjør denne fixen at du får standarden tilbake.
 
