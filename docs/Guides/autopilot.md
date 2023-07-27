@@ -31,7 +31,21 @@ Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv
 Istedet for `-online` som vi brukte på den lette måten, så bruker vi `-OutputFile AutoPilotHWID.csv` her.
  
 Powershellscript kjøres som administrator. PC må være koblet til internett for at dette skal virke. 
-Svar ja på all godkjenning som dukker opp.
+Svar ja på all godkjenning som dukker opp.  
  
-Outputfilen blir lagret på minnepenn: D:\HWID\  - Outputfilen heter her AutoPilotHWID.csv
-Derfor er det viktig å ha denne mappen på minnepenn klar. HWID mappen er opprettet på forhånd.
+Outputfilen blir lagret på minnepenn: D:\HWID\  - Outputfilen heter her AutoPilotHWID.csv  
+
+![auto1](\img\autopilot2.png){: style="height:650px"}
+  
+
+Derfor er det viktig å ha denne mappen på minnepenn klar. HWID mappen er opprettet på forhånd.  
+
+![auto2](\img\autopilot1.png){: style="height:650px"}
+
+  
+![auto3](\img\autopilot4.png){: style="height:650px"}
+ 
+
+![auto4](\img\autopilot5.png){: style="height:650px"}
+
+
