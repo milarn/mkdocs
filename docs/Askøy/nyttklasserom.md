@@ -2,9 +2,11 @@
 
 Skolen har to typer klasserom: små klasserom og store klasserom.
 
-Små klasserom har én i3-skjerm og en Cynap-enhet bak.
-Store klasserom har én i3-skjerm, én Cynap Pro-enhet, en projektor og en whiteboard.
-Det kan være at det er helt nytt for noen å bare slå på lyset. Så her er en kort video som viser hvordan du slår på lyset i et klasserom:
+- **Små klasserom** har én i3-skjerm og en Cynap-enhet bak.  
+
+- **Store klasserom** har én i3-skjerm, én Cynap Pro-enhet, en projektor og en whiteboard.  
+
+Det kan være at det er helt nytt for noen å bare slå på lyset. Så her er en kort video som viser hvordan du slår på lyset i et klasserom:  
 
 <video src="https://github.com/milarn/mkdocs/assets/50296048/8665bc72-6398-45c7-af47-b1372c6567c2" controls="controls" style="max-height: 430px;">
 </video>
@@ -15,11 +17,13 @@ Et stort klasserom ser vanligvis slik ut:
 
 ![klasserom1](\img\stortklasserom.jpg){: style="height:650px"}  
 
-I3-skjermen (den svarte til høyre) er standard skjermen. Når du kommer inn i klasserommet, slår du først på Cynap-enheten ved å trykke på den lysende knappen. Når man slår på cynap-enheten, så slår man også på projektoren automatisk (Hvis ikke dette skjer, kontakt IT) Bilde under  
+I3-skjermen (den svarte til høyre) er standard skjermen. Når du kommer inn i klasserommet, slår du først på Cynap-enheten ved å trykke på den lysende knappen.  
+
+Når man slår på cynap-enheten, så slår man også på projektoren automatisk (Hvis ikke dette skjer, kontakt IT) Bilde under  
 
 ![klasserom2](\img\cynapstortklasserom.jpg){: style="height:650px"}  
 
-Deretter slår du på i3-skjermen ved å trykke på den markerte på knappen.
+Deretter slår du på i3-skjermen ved å trykke på den markerte knappen.
 
 ![klasserom3](\img\i3skjermpå.jpg){: style="height:650px"}  
 
@@ -40,7 +44,6 @@ For å koble til med windows går du på din maskin og trykker tastene: "Win + K
 
 ![klasserom5](\img\kobletilskjermwin.png){: style="height:650px"}  
 
-
 ### Apple enheter (Airplay)
 
 På Apple enheter så er det airplay som gjelder. Finn rommet du er i, i mitt tilfelle er det personalrommet som er "V-ASKO-2134-CCP". Videoen under viser hvordan dette gjøres via en iphone:
@@ -52,7 +55,11 @@ På Apple enheter så er det airplay som gjelder. Finn rommet du er i, i mitt ti
 
 Android enheter kan gjøre dette via Miracast. Samsung mobiler har noe som heter "Smart view" Det bruker miracast og er ganske likt som airplay. Video på dette kommer, når vi har en android/samsung enhet å teste med.
 
-TBD
+### Chromecast
+
+Så chromecast fungerer som vanlig med at du åpner en chrome nettleser og caster fra ikonet i nettleseren, som på bildet:  
+
+![klasserom6](\img\chromecast.png){: style="height:650px"}  
 
 
 
