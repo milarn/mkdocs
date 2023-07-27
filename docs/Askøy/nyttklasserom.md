@@ -34,34 +34,31 @@ Når du er ferdig med siste undervisningstime for dagen. Så kan du slå av cyna
 
 ## Koble til skjerm
 
-Alle klasserom har dette som bakgrunnsbilde:  
+Alle klasserom har dette som bakgrunnsbilde, Det beskriver kort hvordan du kan koble deg til. Lenger ned på siden er det en mer detaljert beskrivelse.  
 
-![klasserom4](\img\personalrom.jpg){: style="height:650px"}  
+![klasserom4](\img\personalrom1.jpg){: style="height:650px"}  
 
 ### Windows:
 
-For å koble til med windows går du på din maskin og trykker tastene: "Win + K" Da får du opp en liste med forskjellige rom. Som oftest heter den du skal koble deg til, rom-nummeret du er i. Som her V-ASKO-2134-CCP
+For å koble til med Windows, går du på din maskin og trykker tastene: "Win + K" Da får du opp en liste med forskjellige rom. Som oftest heter den du skal koble deg til, rom-nummeret du er i. I mitt tilfelle var dette: V-ASKO-2134-CCP.  
+
+**OBS!** Når du er ferdig med å bruke pc-en på skjermen, så **må** du trykke Windows-knappen + K igjen og **"Koble fra"**. Ellers forblir du på skjermen selv om du har **forlatt** rommet.
 
 ![klasserom5](\img\kobletilskjermwin.png){: style="height:650px"}  
 
 ### Apple enheter (Airplay)
 
-På Apple enheter så er det airplay som gjelder. Finn rommet du er i, i mitt tilfelle er det personalrommet som er "V-ASKO-2134-CCP". Videoen under viser hvordan dette gjøres via en iphone:
+På Apple-enheter er det Airplay som gjelder. Finn rommet du er i, i mitt tilfelle er det personalrommet som heter "V-ASKO-2134-CCP". Som videoen under viser, får du opp en kode på tavlen som du må skrive inn på din Apple-enhet. Etter dette er du koblet til, husk å koble deg fra når du er ferdig.
 
 <video src="https://github.com/milarn/mkdocs/assets/50296048/f7853761-c499-4c6e-b8fd-29c223725995" controls="controls" style="max-height: 430px;">
 </video>
 
 ### Android enheter
 
-Android enheter kan gjøre dette via Miracast. Samsung mobiler har noe som heter "Smart view" Det bruker miracast og er ganske likt som airplay. Video på dette kommer, når vi har en android/samsung enhet å teste med.
+Android-enheter kan gjøre dette via Miracast. Samsung-mobiler har noe som heter "Smart view" som bruker Miracast og er ganske likt som Airplay. Video på dette kommer, når vi har en Android/Samsung-enhet å teste med.
 
 ### Chromecast
 
-Så chromecast fungerer som vanlig med at du åpner en chrome nettleser og caster fra ikonet i nettleseren, som på bildet:  
+Chromecast fungerer som vanlig med at du åpner en Chrome-nettleser og caster fra ikonet i nettleseren, som vist på bildet:  
 
-![klasserom6](\img\chromecast.png){: style="height:650px"}  
-
-
-
-
-
+![klasserom6](\img\chromecast.png){: style="width:550px"}  
