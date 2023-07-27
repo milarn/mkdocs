@@ -4,7 +4,7 @@ Uansett hvilken visning du har så gjør denne fixen at du får standarden tilba
 
 Eksempel på uvanlig visning:
 
-![outlook1](\img\outlook1.png)
+![outlook1](\img\outlook1.png){: style="width:800px"}
 
 ## Hvordan fikser vi dette?
 
@@ -18,4 +18,4 @@ Dette åpner dialogboksen "Kjør".
 - Skriv i vinduet som dukker opp: "outlook.exe /cleanviews" (uten anførselstegn) og
 trykk "Enter". Dette vil starte Outlook med kommandoen for å tilbakestille visningene.
 
-![outlook2](\img\outlook2.png)
+![outlook2](\img\outlook2.png){: style="width:650px"}
