@@ -17,7 +17,7 @@ Et stort klasserom ser vanligvis slik ut:
 
 ![klasserom1](\img\stortklasserom.jpg){: style="height:650px"}  
 
-I3-skjermen (den svarte til høyre) er standard skjermen. Når du kommer inn i klasserommet, slår du først på Cynap-enheten ved å trykke på den lysende knappen.  
+I3-skjermen (den svarte til høyre) er standard skjermen. Når du kommer inn i klasserommet, slår du først på Cynap-enheten ved å trykke på den lysende knappen bak I3-skjermen.  
 
 Når man slår på cynap-enheten, så slår man også på projektoren automatisk (Hvis ikke dette skjer, kontakt IT) Bilde under  
 
@@ -36,7 +36,7 @@ Når du er ferdig med siste undervisningstime for dagen. Så kan du slå av cyna
 
 Alle klasserom har dette som bakgrunnsbilde, Det beskriver kort hvordan du kan koble deg til. Lenger ned på siden er det en mer detaljert beskrivelse.  
 
-![klasserom4](\img\personalrom1.jpg){: style="height:650px"}  
+![klasserom4](\img\bakgrunn1.png){: style="height:650px"}  
 
 ### Windows:
 
