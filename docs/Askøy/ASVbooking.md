@@ -37,7 +37,7 @@ Disse møterommene har bare en lydplanke + kamera på toppen og ser ofte sånn u
 
 For å koble deg til disse møterommene, må du bruke kablene som henger i rommet. Det er to USB-kabler for lyd og kamera, samt en HDMI-kabel for skjermdeling.  
 
-![rom6](\img\kabelbyom.jpg){: style="width:550px"}  
+![rom6](\img\kablebyom.jpg){: style="width:550px"}  
 
 Her er lyd-settings som må gjøres på pc-en for å få lyden til å fungere:
 
