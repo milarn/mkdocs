@@ -1,11 +1,15 @@
-# Booking av Teamsrom Askøy VGs
+# Booking av møterom Askøy VGs
 
-Her kommer litt info ang Teamsmøterommene vi har på Askøy VGs. De fleste møterom har en Skjerm i rommet med kamera/Bar på toppen.  
+Her kommer litt info ang Møterommene vi har på Askøy VGs. Vi har 2 typer møterom:  
 
-På bordet finner vi Yealink interfacet som du bruker for å koble deg på.  
+- **Teamsrom med Tablet** Her finner vi lydplanke under skjerm + kamera over skjerm i tillegg til en tablet på bordet.  
+
+- **BYOM Møterom** Her har vi en lydplanke + kamera og disse rommene er mer designet for elever. (BYOM = Bring your own Meeting)  
+
+Når du kommer inn i et møterom skal tablet sensorene se deg og automatisk slå på tablet + skjerm. Det samme med BYOM Rommene bare at i3 skjermen ser deg.  
 
 
-## Hvordan booke møterommet?
+## Hvordan booke møterom med tablet?
 
 - Åpne outlook som vanlig, velg din kalender og trykk på "Nytt Teams-møte" knappen.  
 
@@ -23,5 +27,21 @@ Når du er ferdig så vil det se sånn ut i rommet:
 
 For å koble deg til i rommet trykker du bare på "Bli med" på tableten:
 
-![rom4](\img\tablet.jpg){: style="width:550px"}
+![rom4](\img\tablet.jpg){: style="width:550px"}  
+
+## Hvordan bruke BYOM møterom
+
+Disse møterommene har bare en lydplanke + kamera på toppen og ser ofte sånn ut:
+
+![rom5](\img\BYOM.jpg){: style="width:550px"}  
+
+For å koble deg til disse møterommene, må du bruke kablene som henger i rommet. Det er to USB-kabler for lyd og kamera, samt en HDMI-kabel for skjermdeling.  
+
+![rom6](\img\kabelbyom.jpg){: style="width:550px"}  
+
+Her er lyd-settings som må gjøres på pc-en for å få lyden til å fungere:
+
+![rom7](\img\lydsettingbyom.png){: style="width:550px"}  
+
+
 
