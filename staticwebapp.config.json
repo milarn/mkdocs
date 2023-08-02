@@ -1,0 +1,77 @@
+{
+    "routes": [
+        {
+            "route": "/.auth/login/github",         
+            "statusCode": "401"
+        },
+        {
+            "route": "/.auth/login/twitter",        
+            "statusCode": "401"
+        },
+        {
+            "route": "/.auth/login/facebook",       
+            "statusCode": "401"
+        },
+        {
+            "route": "/.auth/login/google",         
+            "statusCode": "401"
+        },
+        {
+            "route": "/login",                      
+            "redirect": "/.auth/login/aad"
+        },
+        {
+            "route": "/logout",                     
+            "redirect": "/.auth/logout"
+        },
+        {
+            "route": "/admin_role.html",
+            "allowedRoles": ["admin"]  
+        },
+        {
+            "route": "/reader_role.html",
+            "allowedRoles": ["reader"]  
+        },
+        {
+            "route": "/authenticated_role.html",
+            "allowedRoles": ["authenticated"]  
+        },
+        {
+            "route": "/index.html",
+            "allowedRoles": ["anonymous"]  
+        }
+    ],
+    
+    
+     "responseOverrides": {
+         "401": {
+             "redirect": "/.auth/login/aad?post_login_redirect_uri=.referrer",
+             "statusCode": 302
+         }
+     },
+    
+    "mimeTypes": {
+        ".json": "text/json",
+        ".css": "text/css",
+        ".js": "text/javascript"
+    },
+    
+    "auth": {
+        "rolesSource": "/api/GetRoles",
+        "identityProviders": {
+          "azureActiveDirectory": {
+            "userDetailsClaim": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
+            "registration": {
+              "openIdIssuer": "https://login.microsoftonline.com/205bbf6a-b343-4f0f-94eb-27ee53c544d6",
+              "clientIdSettingName": "fcef59bd-6bf6-41e2-b276-b8d83ba9f4f1",
+              "clientSecretSettingName": "kXC8Q~HtxxFP_aNQWlBBGaWcD8mgVCvaJ4b.Hb~4"
+            },
+            "login": {
+              "loginParameters": [
+                "resource=https://graph.microsoft.com"
+              ]
+            }
+          }
+        }
+    }
+}
