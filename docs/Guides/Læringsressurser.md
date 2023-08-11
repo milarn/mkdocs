@@ -18,5 +18,3 @@ Azure Developer Program er et gratis program som gir utviklere tilgang til Azure
 Microsoft Learn er en gratis læringsplattform som tilbyr kurs og opplæringsressurser om Microsoft-produkter og -teknologier. Kursene er levert av Microsoft-ansatte og partnere og er av høy kvalitet.
 
 [Learn](https://learn.microsoft.com/en-us/training/)
-
-Dette er noen av mine favoritter og som jeg bruker veldig ofte. Hvis dere har noen andre tips eller forslag bare send meg en melding!
