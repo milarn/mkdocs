@@ -1,32 +1,20 @@
-# Eksempel på Dokumentasjon | Home
+# Askøy VGs
+![auto1](\img\askoy-logo.png){: style="height:650px"}
 
-## **Hvorfor ha dette?**
-Her får vi en fin oversikt over hvordan vi kan dokumentere.
-Det skal være lett å lage et .md dokument, customize og organisere via [Cheat sheeten](https://docs.lund.store/mkcheatsheet/) her. Da kan vi bruke #, ## og ### for å lage titler for å automatisk generere table of contents. Den ser du ganske lett på venstre siden.
+Felles side for Ansatte på Askøy VGs med brukerveiledninger og relevant informasjon om løsningen på skolen.  
+Hvis det er noen ønsker for brukerveiledninger eller informasjon om noen andre løsninger enn de som er her nå, kontakt IT.  
 
-### Hva kan være vanskeligheter?
+## Snarveier for ansatte
 
-Det er noen potensielle vanskeligheter du må ta hensyn til når du setter opp dokumentasjonssiden med MkDocs:
+[Skoleportalen](https://www.skoleportalen.no/)  
 
-1. **Sikkerhet**: Du må vurdere sikkerhetsaspektene, inkludert autentisering og tilgangskontroll, for å beskytte dokumentasjonssiden.
+[Askøy vgs](https://www.askoy.vgs.no/)  
 
-2. **Repositorier**: Må bestemme hvilke repositorier vi skal bruke til å lagre og administrere dokumentene. Det kan være nødvendig å konfigurere tilgangsrettigheter og integrere med versjonskontrollsystemer som Git.
+[Itslearning](https://vlfk.itslearning.com/) 
 
-3. **Kvalitetskontroll**: Vi bør ha en mekanisme for å sikre kvaliteten på dokumentasjonen. Dette kan omfatte revisjonsprosesser, redaksjonell gjennomgang eller automatiserte verktøy for stavekontroll og syntaksvalidering.
+[Office](https://office.com)
 
-4. **Opplæring**: Det kan være nødvendig å tilby opplæring og støtte til teamet som skal jobbe med dokumentasjonen. Dette inkluderer opplæring i bruk av MkDocs, retningslinjer for skriving og formatering av dokumenter.
-
-
-### Oppsummering
-
-Dette er noen av mine tanker så langt. Listen kan være mye lengre, men her er noen forslag:
-
-- Du kan bruke [docs.lund.store](https://docs.lund.store) som URL for å finne denne dokumentasjonssiden.
-- For å få tilgang kan brukere logge på med Azure AD-kontoen sin.
-- Du kan bruke Azure DevOps for å administrere repositoriene.
-- Dette er en flott mulighet til å få god dokumentasjon og samtidig gjøre alle lærlinger og konsulenter kjent med utviklersiden.
-
-## Azure snarveier
+## Azure snarveier (IT)
 
 [Azure portal](https://portal.azure.com)
 

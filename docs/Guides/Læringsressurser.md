@@ -1,4 +1,4 @@
-# Læringsressurser
+# Læringsressurser (IT)
 
 Her er noen læringsressurser som vi kan ta i bruk og tipse om:
 

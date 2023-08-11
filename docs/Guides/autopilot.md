@@ -1,4 +1,4 @@
-# Autopilot HWID
+# Autopilot HWID (IT)
 
 ## Enkel metode:
 i cmd på en nytanket maskin trykk shift + f10 for å få opp cmd ved tastatur-valg. 

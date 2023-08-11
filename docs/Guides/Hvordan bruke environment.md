@@ -1,4 +1,4 @@
-# Aktivere environment
+# Aktivere environment (IT)
 
 ## Når man skal slå på for å dokumentere:
 
