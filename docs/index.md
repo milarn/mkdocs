@@ -1,5 +1,5 @@
 # Askøy VGs
-![auto1](\img\askoylogo.png){: style="height:650px"}
+![auto1](\img\askoylogo.png)
 
 Felles side for Askøy VGs med brukerveiledninger og relevant informasjon om løsningene på skolen.  
 Hvis det er noen ønsker for brukerveiledninger eller informasjon om noen andre løsninger enn de som er her nå, kontakt IT.  
