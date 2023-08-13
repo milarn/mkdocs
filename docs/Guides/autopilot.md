@@ -35,17 +35,17 @@ Svar ja på all godkjenning som dukker opp.
  
 Outputfilen blir lagret på minnepenn: D:\HWID\  - Outputfilen heter her AutoPilotHWID.csv  
 
-![auto1](\img\autopilot2.png){: style="height:650px"}
+![auto1](\img\autopilot2.png)
   
 
 Derfor er det viktig å ha denne mappen på minnepenn klar. HWID mappen er opprettet på forhånd.  
 
-![auto2](\img\autopilot1.png){: style="height:650px"}
+![auto2](\img\autopilot1.png)
 
   
-![auto3](\img\autopilot4.png){: style="height:650px"}
+![auto3](\img\autopilot4.png)
  
 
-![auto4](\img\autopilot5.png){: style="height:650px"}
+![auto4](\img\autopilot5.png)
 
 
