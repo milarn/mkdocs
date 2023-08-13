@@ -8,7 +8,7 @@ Skolen har to typer klasserom: små klasserom og store klasserom.
 
 Det kan være at det er helt nytt for noen å bare slå på lyset. Så her er en kort video som viser hvordan du slår på lyset i et klasserom:  
 
-<video src="https://github.com/milarn/mkdocs/assets/50296048/8665bc72-6398-45c7-af47-b1372c6567c2" controls="controls" style="max-height: 430px;">
+<video src="https://github.com/milarn/mkdocs/assets/50296048/2565a0cc-632c-4ef9-acea-737f2d933ccc" controls="controls" style="max-height: 430px;">
 </video>
 
 ## Stort klasserom
@@ -29,7 +29,7 @@ Deretter slår du på i3-skjermen ved å trykke på den markerte knappen.
 
 Når du er ferdig med siste undervisningstime for dagen. Så kan du slå av cynapen ved å trykke 2 ganger rett etterhverandre for å slå av. Du ser at dette fungerer når I3 skjermen viser en grønn skjerm som videoen under:
 
-<video src="https://github.com/milarn/mkdocs/assets/50296048/ec0ef66f-df8a-4b9a-ba66-72728b0e11bb" controls="controls" style="max-height: 430px;">
+<video src="https://github.com/milarn/mkdocs/assets/50296048/5f104c24-d69c-4050-b5cb-b8e1ff3fc63d" controls="controls" style="max-height: 430px;">
 </video>
 
 ## Koble til skjerm
