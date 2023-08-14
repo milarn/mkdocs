@@ -1,10 +1,11 @@
 # Print på ASV  
 På Askøy VGs har vi 3 printere.  
+
 - Administrajson (Kun administrasjon)  
 
 - Utenfor Elevtjenesten (Alle)  
 
-- 1097/kopi rom (Ansatte)  
+- 1097/kopirom (Ansatte)  
 
 Dette er de 3 som vi har pr dags dato og som er i bruk.  
 
